@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Reza Aditya Ramadhan</h1>
 <h3 align="center">A passionate full stack developer from Depok, Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fikriadip&label=Profile%20views&color=0e75b6&style=flat" alt="rezaadityaa" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=RezaAdityaRamadhan26&label=Profile%20views&color=0e75b6&style=flat" alt="rezaadityaa" /> 
+</p>
 
 - 🌱 I’m currently learning **Golang, Vite, ExpressJS**
 
@@ -35,7 +37,7 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RezaAdityaRamadhan26&show_icons=true&locale=en" />
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=RezaAdityaRamadhan26&show_icons=true&theme=radical" />
-alt="rezaadityaa" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RezaAdityaRamadhan26&show_icons=true&theme=radical" alt="Reza Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RezaAdityaRamadhan26&layout=compact&show_icons=true&theme=radical" alt="Top Langs" />
+</p>
