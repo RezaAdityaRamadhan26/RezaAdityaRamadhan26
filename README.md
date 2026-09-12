@@ -56,20 +56,11 @@
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=mysql,postgres,nginx&perline=6"
-  alt="Backend and Database Tools"
+  src="https://skillicons.dev/icons?i=mysql,postgres,nginx,postman&perline=8"
+  alt="Backend, Database and CMS Tools"
 />
 
 <br/><br/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-  alt="Postman"
-  width="48"
-  height="48"
-/>
-
-&nbsp;&nbsp;&nbsp;
 
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
@@ -78,14 +69,24 @@
   height="48"
 />
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/strapi/strapi-original.svg"
+  src="https://cdn.simpleicons.org/strapi/4945FF"
   alt="Strapi"
   width="48"
   height="48"
 />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>
+  MySQL · PostgreSQL · Nginx · Postman · DBeaver · Strapi · Headless CMS
+</sub>
 
 </div>
 
