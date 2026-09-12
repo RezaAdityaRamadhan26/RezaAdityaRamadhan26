@@ -6,7 +6,7 @@
 
 <p>
   Building modern web & mobile applications,<br/>
-  scalable backend systems, and products that solve real problems.
+  scalable backend systems, and digital products that solve real problems.
 </p>
 
 <p>
@@ -29,7 +29,7 @@
 - 🌱 Currently learning **Golang, Vite & Express.js**
 - 💻 Focused on **Full Stack Development, Backend Engineering & Mobile Development**
 - 🚀 Interested in building **scalable applications, APIs, and digital products**
-- 🛠️ Enjoy working with **modern web technologies and software architecture**
+- 🧠 Exploring **software architecture, backend systems, and modern development practices**
 - 📫 Reach me at **[rezaadityaa26@gmail.com](mailto:rezaadityaa26@gmail.com)**
 - ⚡ Fun fact: **I like building things that make money 💸**
 
@@ -87,14 +87,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./assets/github-profile/overview.dark.svg"
+    srcset="assets/github-profile/overview.dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./assets/github-profile/overview.light.svg"
+    srcset="assets/github-profile/overview.light.svg"
   />
   <img
-    src="./assets/github-profile/overview.light.svg"
+    src="assets/github-profile/overview.light.svg"
     width="100%"
     alt="Muhammad Reza Aditya Ramadhan GitHub Statistics"
   />
@@ -113,14 +113,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./assets/github-profile/contributions.dark.svg"
+    srcset="assets/github-profile/contributions.dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./assets/github-profile/contributions.light.svg"
+    srcset="assets/github-profile/contributions.light.svg"
   />
   <img
-    src="./assets/github-profile/contributions.light.svg"
+    src="assets/github-profile/contributions.light.svg"
     width="100%"
     alt="Muhammad Reza Aditya Ramadhan GitHub Contributions"
   />
@@ -139,14 +139,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./assets/github-profile/lifetime.dark.svg"
+    srcset="assets/github-profile/lifetime.dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./assets/github-profile/lifetime.light.svg"
+    srcset="assets/github-profile/lifetime.light.svg"
   />
   <img
-    src="./assets/github-profile/lifetime.light.svg"
+    src="assets/github-profile/lifetime.light.svg"
     width="100%"
     alt="Muhammad Reza Aditya Ramadhan Lifetime GitHub Contributions"
   />
@@ -162,14 +162,12 @@
 
 <div align="center">
 
-<p>
-  <a href="mailto:rezaadityaa26@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-rezaadityaa26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-</p>
+<a href="mailto:rezaadityaa26@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-rezaadityaa26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
 
 </div>
 

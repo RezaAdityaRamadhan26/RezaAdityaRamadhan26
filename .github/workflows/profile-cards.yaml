@@ -2,25 +2,28 @@ name: Update GitHub Profile Cards
 
 on:
   workflow_dispatch:
+
   schedule:
-    - cron: "17 0 * * *"
+    - cron: "37 2 * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-profile-cards
-  cancel-in-progress: false
+  group: profile-cards
+  cancel-in-progress: true
 
 jobs:
-  generate-profile-cards:
+  profile-cards:
     runs-on: ubuntu-latest
 
+    timeout-minutes: 15
+
     steps:
-      - name: Checkout profile repository
+      - name: Checkout repository
         uses: actions/checkout@v7
 
-      - name: Generate GitHub profile cards
+      - name: Generate profile cards
         uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -34,4 +37,4 @@ jobs:
 
           commit: true
 
-          commit-message: "chore(profile): update GitHub statistics [skip ci]"
+          commit-message: "chore(profile): update GitHub profile cards [skip ci]"
