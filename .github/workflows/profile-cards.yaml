@@ -1,0 +1,37 @@
+name: Update GitHub Profile Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-cards
+  cancel-in-progress: false
+
+jobs:
+  generate-profile-cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v7
+
+      - name: Generate GitHub profile cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: RezaAdityaRamadhan26
+
+          cards: overview,contributions,lifetime
+
+          output-dir: assets/github-profile
+
+          themes: light,dark
+
+          commit: true
+
+          commit-message: "chore(profile): update GitHub statistics [skip ci]"
