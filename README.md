@@ -129,7 +129,7 @@
 
 <br/>
 
-### ✨ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 <img
   src="https://komarev.com/ghpvc/?username=RezaAdityaRamadhan26&color=blueviolet&style=flat-square"
