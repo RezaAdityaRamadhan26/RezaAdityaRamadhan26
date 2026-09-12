@@ -30,6 +30,7 @@
 - 💻 Focused on **Full Stack Development, Backend Engineering & Mobile Development**
 - 🚀 Interested in building **scalable applications, APIs, and digital products**
 - 🧠 Exploring **software architecture, backend systems, and modern development practices**
+- 🧩 Experience with **Headless CMS architecture using Strapi**
 - 📫 Reach me at **[rezaadityaa26@gmail.com](mailto:rezaadityaa26@gmail.com)**
 - ⚡ Fun fact: **I like building things that make money 💸**
 
@@ -40,25 +41,8 @@
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,svelte,vite,nodejs,express,go,flutter,php,python&perline=8"
+  src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,svelte,vite,nodejs,express,go,flutter,php,python,expo&perline=8"
   alt="Languages and Frameworks"
-/>
-
-<br/><br/>
-
-<img
-  src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"
-  alt="SvelteKit"
-/>
-
-<img
-  src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"
-  alt="Expo"
-/>
-
-<img
-  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-  alt="React Native"
 />
 
 </div>
@@ -79,23 +63,28 @@
 <br/><br/>
 
 <img
-  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
   alt="Postman"
+  width="48"
+  height="48"
 />
 
+&nbsp;&nbsp;&nbsp;
+
 <img
-  src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
   alt="DBeaver"
+  width="48"
+  height="48"
 />
 
+&nbsp;&nbsp;&nbsp;
+
 <img
-  src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/strapi/strapi-original.svg"
   alt="Strapi"
-/>
-
-<img
-  src="https://img.shields.io/badge/Headless_CMS-111827?style=for-the-badge&logo=contentful&logoColor=white"
-  alt="Headless CMS"
+  width="48"
+  height="48"
 />
 
 </div>
