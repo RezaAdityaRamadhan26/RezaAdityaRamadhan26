@@ -2,11 +2,15 @@
 
 # Hi 👋, I'm Muhammad Reza Aditya Ramadhan
 
-### Full Stack Developer from Depok, Indonesia 🇮🇩
+### Full Stack Developer · Backend Enthusiast · Product Builder
 
 <p>
-  Passionate about building modern web & mobile applications,<br/>
-  learning new technologies, and turning ideas into real products.
+  Building modern web & mobile applications,<br/>
+  scalable backend systems, and products that solve real problems.
+</p>
+
+<p>
+  📍 Depok, Indonesia 🇮🇩
 </p>
 
 <p>
@@ -23,10 +27,11 @@
 ## 👨‍💻 About Me
 
 - 🌱 Currently learning **Golang, Vite & Express.js**
-- 💻 Interested in **Full Stack Development, Backend Engineering & Mobile Development**
-- 🛠️ Enjoy building **web applications, APIs and scalable systems**
+- 💻 Focused on **Full Stack Development, Backend Engineering & Mobile Development**
+- 🚀 Interested in building **scalable applications, APIs, and digital products**
+- 🛠️ Enjoy working with **modern web technologies and software architecture**
 - 📫 Reach me at **[rezaadityaa26@gmail.com](mailto:rezaadityaa26@gmail.com)**
-- ⚡ Fun fact: **I like Money 💸**
+- ⚡ Fun fact: **I like building things that make money 💸**
 
 ---
 
@@ -43,6 +48,8 @@
 
 <br/>
 
+---
+
 ## 🗄️ Database & Backend Tools
 
 <div align="center">
@@ -55,6 +62,8 @@
 </div>
 
 <br/>
+
+---
 
 ## 🎨 Design & Development Tools
 
@@ -69,54 +78,89 @@
 
 <br/>
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=RezaAdityaRamadhan26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  alt="Reza's GitHub Stats"
-/>
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaAdityaRamadhan26&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=RezaAdityaRamadhan26&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/github-profile/overview.dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/github-profile/overview.light.svg"
+  />
+  <img
+    src="./assets/github-profile/overview.light.svg"
+    width="100%"
+    alt="Muhammad Reza Aditya Ramadhan GitHub Statistics"
+  />
+</picture>
 
 </div>
 
 <br/>
+
+---
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=RezaAdityaRamadhan26&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-  alt="Contribution Graph"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/github-profile/contributions.dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/github-profile/contributions.light.svg"
+  />
+  <img
+    src="./assets/github-profile/contributions.light.svg"
+    width="100%"
+    alt="Muhammad Reza Aditya Ramadhan GitHub Contributions"
+  />
+</picture>
 
 </div>
 
+<br/>
+
 ---
+
+## 🗓️ Contribution History
 
 <div align="center">
 
-### 💬 Let's Connect
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/github-profile/lifetime.dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/github-profile/lifetime.light.svg"
+  />
+  <img
+    src="./assets/github-profile/lifetime.light.svg"
+    width="100%"
+    alt="Muhammad Reza Aditya Ramadhan Lifetime GitHub Contributions"
+  />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
 
 <p>
   <a href="mailto:rezaadityaa26@gmail.com">
@@ -127,13 +171,21 @@
   </a>
 </p>
 
+</div>
+
 <br/>
 
-###  Thanks for visiting my profile!
+---
 
-<img
-  src="https://komarev.com/ghpvc/?username=RezaAdityaRamadhan26&color=blueviolet&style=flat-square"
-  alt="Visitors"
-/>
+<div align="center">
+
+### ✨ Thanks for visiting my profile!
+
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=RezaAdityaRamadhan26&color=blueviolet&style=flat-square"
+    alt="Visitors"
+  />
+</p>
 
 </div>
