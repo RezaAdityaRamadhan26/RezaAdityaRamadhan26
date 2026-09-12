@@ -40,8 +40,25 @@
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite,nodejs,express,go,flutter,php,python&perline=7"
+  src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,svelte,vite,nodejs,express,go,flutter,php,python&perline=8"
   alt="Languages and Frameworks"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"
+  alt="SvelteKit"
+/>
+
+<img
+  src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"
+  alt="Expo"
+/>
+
+<img
+  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+  alt="React Native"
 />
 
 </div>
@@ -50,13 +67,35 @@
 
 ---
 
-## 🗄️ Database & Backend Tools
+## 🗄️ Backend, Database & CMS
 
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=mysql,postgres,postman&perline=6"
-  alt="Database and Backend Tools"
+  src="https://skillicons.dev/icons?i=mysql,postgres,nginx&perline=6"
+  alt="Backend and Database Tools"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+  alt="Postman"
+/>
+
+<img
+  src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"
+  alt="DBeaver"
+/>
+
+<img
+  src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white"
+  alt="Strapi"
+/>
+
+<img
+  src="https://img.shields.io/badge/Headless_CMS-111827?style=for-the-badge&logo=contentful&logoColor=white"
+  alt="Headless CMS"
 />
 
 </div>
